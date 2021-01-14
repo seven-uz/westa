@@ -17275,8 +17275,8 @@ a:hover {
 }
 
 .header {
-  background: -webkit-gradient(linear, left top, left bottom, from(rgba(38, 38, 40, 0.65)), to(rgba(38, 38, 40, 0.65))), url("/assets/img/header-bg.jpg") no-repeat center bottom;
-  background: linear-gradient(rgba(38, 38, 40, 0.65), rgba(38, 38, 40, 0.65)), url("/assets/img/header-bg.jpg") no-repeat center bottom;
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(38, 38, 40, 0.65)), to(rgba(38, 38, 40, 0.65))), url("/assets/img/header-bg.webp") no-repeat center bottom;
+  background: linear-gradient(rgba(38, 38, 40, 0.65), rgba(38, 38, 40, 0.65)), url("/assets/img/header-bg.webp") no-repeat center bottom;
   background-size: cover;
   height: 100vh;
 }
